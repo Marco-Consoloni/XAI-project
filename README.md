@@ -17,7 +17,7 @@ Plant disease classification from images presents several key challenges:
 - Detection in non-homogenous and complex backgrounds;
 - Detection on both single and multiple overlapping leaves.
 
-To address these challenges, we trained two deep learning models for plant disease classification and analyzed their detection capabilities using post-hoc XAI techniques, including: *IntGrad, Rise, LIME, Grad-CAM* and *Grad-CAM++* .
+To address these challenges, we trained two deep learning models for plant disease classification and analyzed their detection capabilities using post-hoc XAI techniques, including: **IntGrad**, **Rise**, **LIME**, **Grad-CAM** and **Grad-CAM++** .
 
 ![readme_img](assets/readme_img.png)
 
