@@ -17,13 +17,13 @@ Plant disease classification from images presents several key challenges:
 - Detection in non-homogenous and complex backgrounds;
 - Detection on both single and multiple overlapping leaves.
 
-To address these challenges, we trained two deep learning models for plant disease classification and analyzed their detection capabilities using post-hoc XAI techniques, including: **IntGrad**, **Rise**, **LIME** and **Grad-CAM++** .
+To address these challenges, we trained two deep learning models for plant disease classification and analyzed their detection capabilities using post-hoc XAI techniques, including: **IntGrad**, **Rise**, **LIME**, **Grad-CAM** and **Grad-CAM++** .
 
 ![readme_img](assets/readme_img.png)
 
-**Figure 1.** Example of saliency maps of strawberry leaves affected by the leaf scorch disease with non-homogeneous background.
+**Fig. 1** - Example of saliency maps of strawberry leaves affected by the leaf scorch disease with non-homogeneous background.
 
-These methods enable the interpretation of model predictions by highlighting the most relevant image regions contributing to each classification decision (see Figure 1).
+These methods enable the interpretation of model predictions by highlighting the most relevant image regions contributing to each classification decision (see Fig. 1).
 
 - **Code:** `./XAI-project/XAI_project_code.ipynb`
 - **Report:** `./XAI-project/XAI_project_report.pdf`
