@@ -1,6 +1,6 @@
 # Explainable AI (XAI) – Plant Disease Classification
 
-This repository contains the Explainable AI (XAI) project, carried out as part of a 30-hour course in Explainable Artificial Intelligence (2023-2024) organized by:
+This repository contains the Explainable Artificial Intelligence (XAI) project, carried out as part of a 30-hour course in XAI (2023-2024) organized by:
 
 - Department of Informatics, University of Pisa; 
 - National PhD Course in Artificial Intelligence.
@@ -25,8 +25,8 @@ To address these challenges, we trained two deep learning models for plant disea
 
 These methods enable the interpretation of model predictions by highlighting the most relevant image regions contributing to each classification decision (see Figure 1).
 
-**Code:** ./XAI-project/XAI_project_code.ipynb
-**Report:** ./XAI-project/XAI_project_report.pdf
+- **Code:** [`XAI_project_code.ipynb`](./XAI-project/XAI_project_code.ipynb)
+- **Report:** [`XAI_project_report.pdf`](./XAI-project/XAI_project_report.pdf)
 
 
 
