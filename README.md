@@ -25,6 +25,10 @@ To address these challenges, we trained two deep learning models for plant disea
 
 These methods enable the interpretation of model predictions by highlighting the most relevant image regions contributing to each classification decision (see Figure 1).
 
+**Code:** ./XAI-project/XAI_project_code.ipynb
+**Report:** ./XAI-project/XAI_project_report.pdf
+
+
 
 
 
